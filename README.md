@@ -4,7 +4,7 @@ The purpose of this app is to allow a user to manage a list of recipes. For this
 
 ## ScreenShots/Page Details
 ### Home Screen
-![HomeScreen](/screenshots/homescreen.jpg)
+![HomeScreen](/screenshots/homescreen.png)
 The home screen allows for users to:
 - View all the available recipes.
 - Create a new recipe using the create button.
